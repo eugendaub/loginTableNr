@@ -1,0 +1,7 @@
+{
+  "name": "FirebaseLoginTableExperiment",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
